@@ -1,0 +1,12 @@
+
+micronaut:
+    environments: cloudamqp
+
+amqp.username: gxwmihbo
+amqp.password: PhAtUfFQvieS_8GFtxfWnENjDFXuVSlR
+
+rabbitmq:
+    uri: amqp://bullfrog.rmq.cloudamqp.com/gxwmihbo
+#    requestedFrameMax: 10
+#    requestedChannelMax: 10
+#    connectionTimeout: 5000

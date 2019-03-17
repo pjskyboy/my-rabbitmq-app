@@ -1,0 +1,6 @@
+---
+micronaut:
+    application:
+        name: my-rabbitmq-app
+    server:
+        port: ${random.port}

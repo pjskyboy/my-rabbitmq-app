@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: my.rabbitmq.app
+---
+testFramework: spek
+sourceLanguage: kotlin
